@@ -1,0 +1,13 @@
+{
+  "name": "cloudflare-worker-vercel-proxy-skill",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Reusable Agent Skill for safely proxying Cloudflare Workers through Vercel",
+  "keywords": [
+    "agent-skill",
+    "cloudflare-workers",
+    "vercel",
+    "reverse-proxy",
+    "streaming"
+  ]
+}
